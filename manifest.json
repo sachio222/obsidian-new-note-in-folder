@@ -3,7 +3,7 @@
   "name": "New Note in Folder",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
-  "description": "Creates new notes inside the currently selected folder instead of the vault root.",
+  "description": "Creates new notes in the selected folder instead of the vault root.",
   "author": "sachio222",
   "authorUrl": "https://github.com/sachio222",
   "isDesktopOnly": false
